@@ -65,7 +65,7 @@ EXCEL_FILE = DATA_FOLDER / "payroll_employee_data.xlsx"
 LOG_FILE = DATA_FOLDER / "email_log.xlsx"
 ERROR_LOG = DATA_FOLDER / "payroll_error.log"
 
-SENDER_EMAIL = "cmms.supportbses@bses.com.my"
+SENDER_EMAIL = "payroll@bses.com.my"
 SMTP_SERVER = "smtp.office365.com"
 SMTP_PORT = 587
 
